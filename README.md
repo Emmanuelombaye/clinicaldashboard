@@ -27,8 +27,8 @@ Docs in-repo: [PLATFORM.md](./PLATFORM.md) · [PHASE1](./PHASE1.md)–[PHASE5](.
 ## Quick start
 
 ```bash
-git clone https://github.com/Emmanuelombaye/virtualclinicos.git
-cd virtualclinicos
+git clone https://github.com/Emmanuelombaye/clinicaldashboard.git
+cd clinicaldashboard
 npm install
 cp .env.example .env
 npx prisma db push
